@@ -1,1 +1,3 @@
-# thread-guc-example
+1 多线程的一些例子，比较全面。
+
+2 例子主要在test文件夹下。
