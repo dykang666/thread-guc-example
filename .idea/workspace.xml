@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a732e68c-4dfb-44d6-aa14-b23efc1f77c5" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/threadguc/example/async/controller/TestContoller.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/threadguc/example/async/service/TestService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/threadguc/example/async/service/impl/TestServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/threadguc/example/jdk/core/sun/misc/MyUnsafe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/threadguc/example/jdk/core/util/concurrent/MySemaphore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/threadguc/example/jdk/core/util/concurrent/atomic/MyAtomicInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/threadguc/example/jdk/core/util/locks/EasyLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/threadguc/example/jdk/core/util/locks/MyAbstractQueuedSynchronizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/example/threadguc/example/jdk/core/util/locks/MyReentrantLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/semaphore/SemaphoreDemo2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/source/code/test/MyAtomicIntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/source/code/test/MyReentrantLockTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/source/code/test/MyThreadPoolExecutorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/example/threadgucexample/ThreadGucExampleApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/example/threadguc/example/ThreadGucExampleApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/ThreadGucExampleApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/ThreadGucExampleApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/CountDownLatch/CountDownLatchDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/CountDownLatch/CountDownLatchDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/CountDownLatch/CountDownLatchDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/CountDownLatch/CountDownLatchDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/FutureTask/FuterTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/FutureTask/FuterTask2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/FutureTask/FuterTaskDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/FutureTask/FuterTaskDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/FutureTask/FutureDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/FutureTask/FutureDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/FutureTask/FutureTaskDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/FutureTask/FutureTaskDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/FutureTask/FutureTaskUsage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/FutureTask/FutureTaskUsage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/ReentrantReadWriteLock/ReadWriteLock1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/ReentrantReadWriteLock/ReadWriteLock1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/ReentrantReadWriteLock/ReadWriteLock2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/ReentrantReadWriteLock/ReadWriteLock2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/ReentrantReadWriteLock/ReadWriteLock3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/ReentrantReadWriteLock/ReadWriteLock3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/ReentrantReadWriteLock/ReadWriteLock4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/ReentrantReadWriteLock/ReadWriteLock4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/aqs/AbstractQueuedSynchronizerDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/aqs/AbstractQueuedSynchronizerDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/aqs/ReentrantLock1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/aqs/ReentrantLock1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/aqs/ReentrantReadWriteLockDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/aqs/ReentrantReadWriteLockDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/asynCode/AsyncExecutorServiceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/asynCode/AsyncExecutorServiceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/asynCode/CompletableFutureExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/asynCode/CompletableFutureExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/asynCode/CompletableFutureWithExceptionHandling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/asynCode/CompletableFutureWithExceptionHandling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/atomic/AtomicCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/atomic/AtomicCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/atomic/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/atomic/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/atomic/LockCounter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/atomic/LockCounter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/atomic/atomicReference/ABAController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/atomic/atomicReference/ABAController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/cas/ABAdemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/cas/ABAdemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/cas/AtomicMarkableReferenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/cas/AtomicMarkableReferenceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/cas/AtomicReferenceDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/cas/AtomicReferenceDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/cas/CasDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/cas/CasDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/collections/CopyOnWriteArrayListExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/collections/CopyOnWriteArrayListExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/collections/CopyOnWriteArraySetExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/collections/CopyOnWriteArraySetExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/collections/concurrentmap/ConcurrentHashMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/collections/concurrentmap/ConcurrentHashMapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/collections/concurrentmap/ConcurrentSkipListMapExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/collections/concurrentmap/ConcurrentSkipListMapExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/collections/queue/ConcurrentLinkedQueueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/collections/queue/ConcurrentLinkedQueueExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/collections/queue/blocking/ArrayBlockingQueueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/collections/queue/blocking/ArrayBlockingQueueExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/collections/queue/blocking/LinkedBlockingQueueExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/collections/queue/blocking/LinkedBlockingQueueExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/collections/queue/deque/ArrayDequeExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/collections/queue/deque/ArrayDequeExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/completableFuture/CompletableFutureDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/completableFuture/CompletableFutureDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/completableFuture/CompletableFutureDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/completableFuture/CompletableFutureDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/completableFuture/CompletableFutureDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/completableFuture/CompletableFutureDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/completionService/CompletionServiceDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/completionService/CompletionServiceDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/completionService/CompletionServiceDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/completionService/CompletionServiceDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/completionService/CompletionServiceExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/completionService/CompletionServiceExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/condition/Condition1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/condition/Condition1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/condition/Condition2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/condition/Condition2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/create/CreateThread1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/create/CreateThread1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/create/CreateThread2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/create/CreateThread2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/create/CreateThread3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/create/CreateThread3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/cyclicbarrier/CyclicBarrierDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/cyclicbarrier/CyclicBarrierDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/cyclicbarrier/CyclicBarrierDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/cyclicbarrier/CyclicBarrierDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/exchanger/ExchangerDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/exchanger/ExchangerDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/forkjoinpool/ForkJoinPoolDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/forkjoinpool/ForkJoinPoolDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/forkjoinpool/ForkJoinPoolDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/forkjoinpool/ForkJoinPoolDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/futer/FutureDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/futer/FutureDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/futer/FutureDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/futer/FutureDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/futer/futer2/BaskBallSiteFuture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/futer/futer2/BaskBallSiteFuture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/futer/futer2/BasketBallBuyFutureJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/futer/futer2/BasketBallBuyFutureJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/futer/futer2/BasketBallFuture.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/futer/futer2/BasketBallFuture.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/futer/futer2/BasketBallJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/futer/futer2/BasketBallJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/futer/noFuterTask/BaskBallSite.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/futer/noFuterTask/BaskBallSite.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/futer/noFuterTask/BasketBall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/futer/noFuterTask/BasketBall.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/futer/noFuterTask/BasketBallBuyJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/futer/noFuterTask/BasketBallBuyJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/futer/noFuterTask/BasketBallJob.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/futer/noFuterTask/BasketBallJob.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/join/ForkJoin/ForkJoin1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/join/ForkJoin/ForkJoin1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/join/JoinDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/join/JoinDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/join/JoinDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/join/JoinDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/looksupport/LookSupport1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/looksupport/LookSupport1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/looksupport/LookSupport2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/looksupport/LookSupport2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/looksupport/LookSupport3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/looksupport/LookSupport3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/looksupport/LookSupport4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/looksupport/LookSupport4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/looksupport/LookSupport5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/looksupport/LookSupport5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/nosync/StackClosedExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/nosync/StackClosedExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/nosync/ThreadLocalExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/nosync/ThreadLocalExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/nosync/ThreadLocalExample1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/nosync/ThreadLocalExample1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/nosync/ThreadLocalExample2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/nosync/ThreadLocalExample2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/phaser/PhaserDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/phaser/PhaserDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/phaser/phaser1/PhaserDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/phaser/phaser1/PhaserDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/semaphore/SemaphoreDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/semaphore/SemaphoreDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/semaphore/SemaphoreDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/semaphore/SemaphoreDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/semaphore/SemaphoreDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/semaphore/SemaphoreDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/stampedlock/StampedLockDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/stampedlock/StampedLockDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/stampedlock/StampedLockDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/stampedlock/StampedLockDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/synronized/SynchronizedDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/synronized/SynchronizedDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/synronized/SynchronizedObjectLock.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/synronized/SynchronizedObjectLock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/synronized/SynchronizedObjectLock2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/synronized/SynchronizedObjectLock2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/synronized/SynchronizedObjectLock3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/synronized/SynchronizedObjectLock3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/synronized/SynchronizedObjectLockDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/synronized/SynchronizedObjectLockDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/thread/JoinTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/thread/JoinTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/thread/ThreadDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/thread/ThreadDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/thread/ThreadDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/thread/ThreadDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/thread/YieldTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/thread/YieldTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/thread/abc_test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/thread/abc_test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/threadLocal/ThreadLocalDemo1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/threadLocal/ThreadLocalDemo1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/threadLocal/ThreadLocalDemo2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/threadLocal/ThreadLocalDemo2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/threadLocal/ThreadLocalDemo3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/threadLocal/ThreadLocalDemo3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/example/threadgucexample/geek/threadPoolExecutor/ThreadPoolExecutorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/example/threadguc/example/geek/threadPoolExecutor/ThreadPoolExecutorTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="F:\jar\m2\repository" />
+        <option name="mavenHome" value="E:/apache-maven-3.5.4" />
+        <option name="useMavenConfig" value="true" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.5.4\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2rQwyPMYvbGiqaRNYf16SGhaqDI" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "G:/github/thread-guc-example/src/main/java/com/example/threadguc/example",
+    "settings.editor.selected.configurable": "MavenSettings"
+  }
+}]]></component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\github\thread-guc-example\src\main\java\com\example\threadguc\example" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="ThreadGucExampleApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="thread-guc-example" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.example.threadgucexample.ThreadGucExampleApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="a732e68c-4dfb-44d6-aa14-b23efc1f77c5" name="更改" comment="" />
+      <created>1736504861268</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1736504861268</updated>
+      <workItem from="1736504862995" duration="1295000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
