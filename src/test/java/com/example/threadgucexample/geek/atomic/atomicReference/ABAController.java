@@ -1,8 +1,10 @@
-package com.example.threadgucexample.controller;
+package com.example.threadgucexample.geek.atomic.atomicReference;
 
 import lombok.extern.slf4j.Slf4j;
-import org.springframework.web.bind.annotation.GetMapping;
-import org.springframework.web.bind.annotation.RestController;
+import org.junit.Test;
+import org.junit.runner.RunWith;
+import org.springframework.boot.test.context.SpringBootTest;
+import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
 import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicReference;
@@ -27,12 +29,15 @@ import java.util.concurrent.atomic.AtomicStampedReference;
  * @date 2024/6/28 11:14
  */
 @Slf4j
-@RestController
+@SpringBootTest
+@RunWith(SpringJUnit4ClassRunner.class)
 public class ABAController {
     private static AtomicReference<Integer> atomicReference=new AtomicReference<>(100);
     private static AtomicStampedReference<Integer> stampedReference=new AtomicStampedReference<>(100,1);
-    // ABA问题产生
-    @GetMapping("/testABA")
+
+    // ABA问题产生  AtomicReference 不能避免ABA问题
+
+    @Test
     public void testABA() {
         log.info("===以下是ABA问题的产生===");
         new Thread(()->{
@@ -50,8 +55,8 @@ public class ABAController {
         },"t2").start();
     }
 
-    // ABA问题解决
-    @GetMapping("/testABAResolve")
+    // ABA问题解决  AtomicStampedReference 可以避免ABA问题
+    @Test
     public void testABAResolve() {
         log.info("===以下是ABA问题的解决===");
         new Thread(() -> {
@@ -84,5 +89,6 @@ public class ABAController {
             System.out.println("最新的值\t" + stampedReference.getReference());
         }, "t4").start();
     }
+
 
 }
