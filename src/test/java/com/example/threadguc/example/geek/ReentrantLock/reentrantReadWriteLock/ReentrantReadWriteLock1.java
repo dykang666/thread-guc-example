@@ -14,7 +14,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
  *
  * @date 2024/6/29 11:43
  */
-public class ReadWriteLock1 {
+public class ReentrantReadWriteLock1 {
     public static void main(String[] args) {
         ReentrantReadWriteLock rtLock = new ReentrantReadWriteLock();
         rtLock.readLock().lock();

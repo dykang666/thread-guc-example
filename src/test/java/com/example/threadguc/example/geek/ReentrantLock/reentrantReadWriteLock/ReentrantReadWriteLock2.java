@@ -9,7 +9,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
  *   从写锁降级成读锁，并不会自动释放当前线程获取的写锁，仍然需要显示的释放，否则别的线程永远也获取不到写锁
  * @date 2024/6/29 11:44
  */
-public class ReadWriteLock2 {
+public class ReentrantReadWriteLock2 {
     public static void main(String[] args) {
         ReentrantReadWriteLock reentrantReadWriteLock = new ReentrantReadWriteLock();
         reentrantReadWriteLock.writeLock().lock();

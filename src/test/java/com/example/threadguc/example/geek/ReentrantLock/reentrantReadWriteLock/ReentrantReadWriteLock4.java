@@ -13,7 +13,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
  * updateData方法是写操作，更新时加写锁，其他线程此时无法读取，然后清空缓存中的旧数据。
  * @date 2024/6/29 12:04
  */
-public class ReadWriteLock4 {
+public class ReentrantReadWriteLock4 {
     // 缓存对象，这里用jvm缓存
     Map<String, String> cache = new HashMap<>();
     // 读写锁

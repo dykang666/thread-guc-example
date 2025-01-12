@@ -18,7 +18,7 @@ import java.util.concurrent.locks.ReentrantReadWriteLock;
 @SpringBootTest
 @RunWith(SpringJUnit4ClassRunner.class)
 @Slf4j
-public class ReadWriteLock3  {
+public class ReentrantReadWriteLock3 {
 
 
 

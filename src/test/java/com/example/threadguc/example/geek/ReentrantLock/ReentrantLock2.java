@@ -1,4 +1,4 @@
-package com.example.threadguc.example.geek.aqs;
+package com.example.threadguc.example.geek.ReentrantLock;
 
 import java.util.concurrent.locks.Lock;
 import java.util.concurrent.locks.ReentrantLock;
@@ -20,10 +20,10 @@ import java.util.concurrent.locks.ReentrantLock;
  *
  * @date 2024/6/29 10:11
  */
-public class AbstractQueuedSynchronizerDemo   extends Thread{
+public class ReentrantLock2 extends Thread{
 
     private Lock lock;
-    public AbstractQueuedSynchronizerDemo(String name, Lock lock) {
+    public ReentrantLock2(String name, Lock lock) {
         super(name);
         this.lock = lock;
     }
@@ -39,8 +39,8 @@ public class AbstractQueuedSynchronizerDemo   extends Thread{
 
     public static void main(String[] args) {
         Lock lock = new ReentrantLock();
-        AbstractQueuedSynchronizerDemo t1 = new AbstractQueuedSynchronizerDemo("t1", lock);
-        AbstractQueuedSynchronizerDemo t2 = new AbstractQueuedSynchronizerDemo("t2", lock);
+        ReentrantLock2 t1 = new ReentrantLock2("t1", lock);
+        ReentrantLock2 t2 = new ReentrantLock2("t2", lock);
         t1.start();
         t2.start();
 
