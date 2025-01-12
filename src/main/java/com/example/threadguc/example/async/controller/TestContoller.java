@@ -1,6 +1,7 @@
 package com.example.threadguc.example.async.controller;
 
-import com.example.myjavasourcecode.example.async.service.TestService;
+
+import com.example.threadguc.example.async.service.TestService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.scheduling.annotation.EnableAsync;
 import org.springframework.web.bind.annotation.GetMapping;

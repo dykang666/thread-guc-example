@@ -1,6 +1,7 @@
 package com.example.threadguc.example.async.service.impl;
 
-import com.example.myjavasourcecode.example.async.service.TestService;
+
+import com.example.threadguc.example.async.service.TestService;
 import org.springframework.stereotype.Service;
 
 /**

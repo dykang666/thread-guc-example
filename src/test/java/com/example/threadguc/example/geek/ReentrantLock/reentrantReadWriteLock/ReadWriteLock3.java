@@ -1,4 +1,4 @@
-package com.example.threadguc.example.geek.ReentrantReadWriteLock;
+package com.example.threadguc.example.geek.ReentrantLock.reentrantReadWriteLock;
 
 import lombok.extern.slf4j.Slf4j;
 import org.junit.Test;

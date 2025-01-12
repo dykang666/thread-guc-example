@@ -1,4 +1,4 @@
-package com.example.threadguc.example.geek.ReentrantReadWriteLock;
+package com.example.threadguc.example.geek.ReentrantLock.reentrantReadWriteLock;
 
 import java.util.concurrent.locks.ReentrantReadWriteLock;
 
